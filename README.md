@@ -5,7 +5,8 @@ App Compat 9 - see what apps or games you can still use on iOS 9. Some install n
 👍 - Older Version Method ("This app isn't compatible with device. Install newest compatible version?" in App Store)  
 🤔 - Partially Works (add downsides here)  
 😀 - Fully Works  
-😳 - Not Sure
+😳 - Not Sure  
+😐 - Doesn't Work  
 ## Apps
 Apple Apps (GarageBand, Keynote, etc.) - 👍😀  
 ### Social Media
@@ -15,5 +16,5 @@ Facebook - TBA
 iFunny - TBA  
 ### Games
 Minion Rush - 📄🤔. Costumes tab crashes, then the game endlessly plays a cutscene after reentering the app  
-Subway Surfers - 📄😳. Seems to work  
+Subway Surfers - 📄😐  
 

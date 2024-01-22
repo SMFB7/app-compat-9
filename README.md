@@ -5,7 +5,7 @@ App Compat 9 - see what apps or games you can still use on iOS 9. Some install n
 👍 - Older Version Method ("This app isn't compatible with device. Install newest compatible version?" in App Store)  
 🤔 - Partially Works (add downsides here)  
 😀 - Fully Works  
-😳 - unsure
+😳 - Not Sure
 ## Apps
 ### Social Media
 Apple Apps - 👍😀  

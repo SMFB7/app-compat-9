@@ -14,7 +14,7 @@ YouTube - 📄. 🔵 using this method (home page and search don't work), 🟢 u
 VK - 👴🏻🟢. You have to enable logging in by password, though  
 Facebook - Need someone to test  
 iFunny - 🟢  
-Telegram - 👴🏻🔵. You should have been logged in before somewhere in 2023, when Telegram disallowed using old versions of the app  
+Telegram - 👴🏻🔵. You should have been logged in before somewhere in 2023, when Telegram disallowed logging in using old versions of the app  
 ### Games
 Minion Rush - 📄🔵. Costumes tab crashes, then the game endlessly plays a cutscene after reentering the app  
 Subway Surfers - 🔴  

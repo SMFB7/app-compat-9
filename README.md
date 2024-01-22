@@ -11,6 +11,8 @@ App Compat 9 - see what apps or games you can still use on iOS 9. Some install n
 Apple Apps - 👍😀  
 YouTube - 📄. 🤔 using this method (home page and search don't work), 😀 using web version  
 VK - 👍😀. You have to enable logging in by password, though  
+Facebook - TBA  
+iFunny - TBA  
 ### Games
 Minion Rush - 📄🤔. Costumes tab crashes, then the game endlessly plays a cutscene after reentering the app  
 Subway Surfers - 📄😳. Seems to work  

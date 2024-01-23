@@ -12,6 +12,7 @@ App Compat 9 - see what apps or games you can still use on iOS 9. Some install n
 Apple Apps (GarageBand, Keynote, etc.) - 👴🏻🟢  
 ### Social Media
 YouTube - 📄. 🔵 using this method (home page and search don't work), 🟢 using web version  
+YouTube Kids - 👴🏻🟢  
 VK - 👴🏻🟢. You have to enable logging in by password, though  
 Facebook - Need someone to test  
 iFunny - 👴🏻🟢  

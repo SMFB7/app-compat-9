@@ -11,7 +11,13 @@ App Compat 9 - see what apps or games you can still use on iOS 9. Some install n
 ## Apps
 Apple Apps (GarageBand, Keynote, etc.) - 👴🏻🟢  
 ### Social Media
-YouTube - 📄 to 16.43.2. 🔵 using this method (home page, Shorts, login in the app (you can use YT Kids to log in), video page (video player does work), search don't work), 🟢 using web version  
+YouTube - 1)📄🔵 to 16.43.2. The following don't work using method 1:  
+• Home page  
+• Shorts  
+• Login in the app (you can use YT Kids to log in)  
+• Video page (video player does work)  
+• Search  
+2)Web version 🟢  
 YouTube Kids - 👴🏻🟢  
 VK - 👴🏻🟢. You have to enable logging in by password, though  
 Facebook - Need someone to test  

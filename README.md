@@ -4,6 +4,7 @@ App Compat 9 - see what apps or games you can still use on iOS 9. Some install n
 📄 - Info.plist Method (use 👴🏻 method and change Info.plist's CFBundleVersion and CFBundleShortVersionString to either the latest version's number shown in App Store that is right below the app's name or the number that I tell you)  
 👴🏻 - Older Version Method ("This app isn't compatible with device. Install newest compatible version?" in App Store)  
 📴 - No Wi-Fi Method (use 👴🏻 method, disable Wi-Fi before using the app or use ConditionalWiFi tweak so that you can go to Settings > Wi-Fi, scroll down and disable the app's toggle)  
+🔍 - Works Using Web Version
 🔵 - Partially Works (add downsides here)  
 🟢 - Fully Works  
 🟠 - Not Sure  
@@ -11,13 +12,14 @@ App Compat 9 - see what apps or games you can still use on iOS 9. Some install n
 ## Apps
 Apple Apps (GarageBand, Keynote, etc.) - 👴🏻🟢  
 ### Social Media
-YouTube - 1)📄🔵 to 16.43.2. The following don't work using method 1:  
+YouTube:  
+1) 📄🔵 to 16.43.2. The following don't work:  
 • Home page  
 • Shorts  
 • Login in the app (you can use YT Kids to log in)  
 • Video page (video player does work)  
 • Search  
-2)Web version 🟢  
+2) 🔍🟢  
 YouTube Kids - 👴🏻🟢  
 VK - 👴🏻🟢. You have to enable logging in by password, though  
 Facebook - Need someone to test  

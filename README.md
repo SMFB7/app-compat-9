@@ -14,6 +14,7 @@ App Compat 9 - see what apps or games you can still use on iOS 9. Some install n
 |App|Status|Notes|
 |:-|:-|:-|
 |Apple Apps (GarageBand, Keynote, etc.)|👴🏻🟢| |
+
 &#x200B;  
 ### Social Media
 &#x200B;
@@ -21,7 +22,6 @@ App Compat 9 - see what apps or games you can still use on iOS 9. Some install n
 |:-|:-|:-|
 |Apple Apps (GarageBand, Keynote, etc.)|👴🏻🟢| |
 |YouTube|Multiple methods| |
-
 
 &#x200B;  
 YouTube:  

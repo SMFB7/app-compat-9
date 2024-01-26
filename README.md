@@ -10,8 +10,20 @@ App Compat 9 - see what apps or games you can still use on iOS 9. Some install n
 🟠 - Not Sure  
 🔴 - Doesn't Work  
 ## Apps
-Apple Apps (GarageBand, Keynote, etc.) - 👴🏻🟢  
+&#x200B;
+|App|Status|Notes|
+|:-|:-|:-|
+|Apple Apps (GarageBand, Keynote, etc.)|👴🏻🟢| |
+&#x200B;  
 ### Social Media
+&#x200B;
+|App|Status|Notes|
+|:-|:-|:-|
+|Apple Apps (GarageBand, Keynote, etc.)|👴🏻🟢| |
+|YouTube|Multiple methods| |
+
+
+&#x200B;  
 YouTube:  
 1: 📄🔵 to 16.43.2. The following don't work:  
 • Home page  
@@ -20,12 +32,19 @@ YouTube:
 • Video page (video player does work)  
 • Search  
 2: 🔍🟢  
-YouTube Kids - 👴🏻🟢  
-VK - 👴🏻🟢. You have to enable logging in by password, though  
-Facebook - Need someone to test  
-iFunny - 👴🏻🟢  
-Telegram - 👴🏻🔵. You should have been logged in before somewhere in 2023, when Telegram disallowed logging in using old versions of the app  
+&#x200B;
+|App|Status|Notes|
+|:-|:-|:-|
+|YouTube Kids|👴🏻🟢| |
+|VK|👴🏻🟢|You have to enable logging in by password, though|
+|Facebook|Need someone to test|
+|iFunny|👴🏻🟢| |
+|Telegram|👴🏻🔵|You should have been logged in before somewhere in 2023, when Telegram disallowed logging in using old versions of the app|
+
+&#x200B;  
 ### Games
-Minion Rush - 📄🔵. Costumes tab crashes, then the game endlessly plays a cutscene after reentering the app  
-Subway Surfers - 📴🔵. The player leaderboard doesn't work.  
+|App|Status|Notes|
+|:-|:-|:-|
+|Minion Rush|📄🔵|Costumes tab crashes, then the game endlessly plays a cutscene after reentering the app|
+|Subway Surfers|📴🔵|The player leaderboard doesn't work|
 

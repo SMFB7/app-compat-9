@@ -1,5 +1,5 @@
 # App Compat 9
-App Compat 9 - see what apps or games you can still use on iOS 9. Some install normally, some require older versions and work, some require older versions and only work with workarounds. **This list is still a work-in-progress**.  
+App Compat 9 - see what apps or games you can still use on iOS 9. Some install normally, some require older versions and work, some require older versions and only work with workarounds. **This list is still a work-in-progress**. **You can also check out http://ios-compatible.com**.  
 # Emoji Meaning
 📄 - Info.plist Method (use 👴🏻 method and change Info.plist's CFBundleVersion and CFBundleShortVersionString to either the latest version's number shown in App Store that is right below the app's name or the number that I tell you)  
 👴🏻 - Older Version Method ("This app isn't compatible with device. Install newest compatible version?" in App Store)  
